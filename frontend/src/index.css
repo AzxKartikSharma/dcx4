@@ -85,3 +85,4 @@
     mix-blend-mode: overlay;
     background-size: 280px 280px;
 }
+.netlify-badge{display:none ! important; }
