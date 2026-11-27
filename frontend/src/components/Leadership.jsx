@@ -2,11 +2,11 @@ import { motion } from "framer-motion";
 
 const LEADERS = [
   {
-    name: "Ayushi Sethi",
-    role: "Co-Founder ",
+    name: "Ayushi",
+    role: "Founder ",
     initial: "A",
     testid: "leader-ayushi",
-    bio: "Ayushi is the visionary force behind DCX Solutions. A Strategist at Heart, She started DCX with a Single Conviction — that World-Class Technology and Marketing shouldn't be limited to Metro Cities. She leads the company's creative and AI-driven Marketing Vision, personally shaping Brand Strategies for Clients across Industries. Under her leadership, DCX has grown into one of the most trusted names for Brand Building, PR, Digital Marketing and Social Media Management. She believes every Business deserves a Digital Presence that punches far above its weight.",}
+    bio: "Ayushi is the visionary force behind DCX Marketing Solutions, Jammu and Kashmir. A Strategist at Heart, She started DCX with a Single Conviction — that World-Class Technology and Marketing shouldn't be limited to Metro Cities. She leads the company's creative and AI-driven Marketing Vision, personally shaping Brand Strategies for Clients across Industries. Under her leadership, DCX has grown into one of the most trusted names for Brand Building, PR, Digital Marketing and Social Media Management. She believes every Business deserves a Digital Presence that punches far above its weight.",}
 ];
 
 export default function Leadership() {
